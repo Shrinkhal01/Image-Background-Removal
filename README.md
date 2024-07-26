@@ -12,6 +12,7 @@ Image-Background-Removal/
 ├── main.py            # Main script for background removal
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation
+```
 
 ## How to Execute the Program
 

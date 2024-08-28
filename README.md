@@ -30,3 +30,4 @@ You can install them using pip:
 
 ```bash
 pip install rembg requests Pillow
+```

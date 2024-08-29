@@ -31,3 +31,8 @@ You can install them using pip:
 ```bash
 pip install rembg requests Pillow
 ```
+Then you just have to run the program:
+
+```bash
+python3 main.py
+```

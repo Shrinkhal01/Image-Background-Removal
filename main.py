@@ -1,8 +1,11 @@
 from rembg import remove
 import requests
+
 from PIL import Image #the image manipulator
 from io import BytesIO  # handle img data as bytes
+
 import os #imports the os library for managing the file paths of the images
+
 os.makedirs('originals',exist_ok=True)#makes à folder named originals
 os.makedirs('masked', exist_ok=True)#makes a folder named masked
 image_path = 'nameLogo.png'#the path of the file whose background is to be removed
